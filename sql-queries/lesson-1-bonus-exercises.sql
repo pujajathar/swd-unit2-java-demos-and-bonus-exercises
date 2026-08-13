@@ -77,7 +77,6 @@ UPDATE artist
 SET country='Mexico'
 where id=10;
 
-
 -- TODO: Write and run a query that returns only the last name and country for all records
 
 SELECT last_name, country
